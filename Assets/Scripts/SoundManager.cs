@@ -23,6 +23,7 @@ public class SoundManager : MonoBehaviour
     public AudioClip ghostEntry;
     public AudioClip doorOpen;
     public AudioClip doorClose;
+    public AudioClip keyCollect;
 
     public void PlaySound(AudioClip clipName)
     {
